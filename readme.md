@@ -11,3 +11,5 @@ This project aims to control the pergola awning over the internet with ESP-32S n
 - Male to Male Jumper Wires
 - Breadboard
 - RF remote control
+
+![alt text](https://github.com/Perugia/pergola-automation/blob/main/screenshots/components.jpg?raw=true)
