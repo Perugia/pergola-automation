@@ -12,10 +12,10 @@ This project aims to control the pergola awning over the internet with ESP-32S n
 - Breadboard
 - RF remote control
 
-![alt text](https://github.com/Perugia/pergola-automation/blob/main/screenshots/components.jpg?raw=true)
-![alt text](https://github.com/Perugia/pergola-automation/blob/main/screenshots/project.jpg?raw=true)
+![alt text](https://github.com/Perugia/pergola-automation/blob/main/screenshots/components.jpg)
+![alt text](https://github.com/Perugia/pergola-automation/blob/main/screenshots/project.jpg)
 
 ## Demo
-You can click and watch the demo video.
+[You can click and watch the demo video.](https://www.youtube.com/shorts/3oa83QaCVgk)
 
-[![IMAGE ALT TEXT HERE](https://github.com/Perugia/pergola-automation/blob/main/screenshots/introduciton-thumbnail.png)](https://www.youtube.com/shorts/3oa83QaCVgk)
+[![demo](https://github.com/Perugia/pergola-automation/blob/main/screenshots/introduciton-thumbnail.png)](https://www.youtube.com/shorts/3oa83QaCVgk)
